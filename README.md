@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | 💡 ML Explorer | 🌍 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Unique+Solutions;MERN+%7C+ML+%7C+SpringBoot+%7C+Next.js;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Unique+Solutions;MERN+%7C+ML+%7C+DSA+%7C+Next.js;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 ---
