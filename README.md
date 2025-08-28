@@ -61,13 +61,16 @@ Here are some of my highlighted projects 👇
 - 🌍 Dream: Build something impactful for **society & humanity**  
 
 ---
-
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="[https://linkedin.com/in/ashutosh-kirjat-7ba484259]"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:ashukirjat@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<!--   <a href="(https://leetcode.com/u/ashutosh_2004)"><img src="https://skillicons.dev/icons?i=leetcode"/></a> -->
+  <a href="https://linkedin.com/in/ashutosh-kirjat-7ba484259" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" style="margin: 0 15px;" />
+  </a>
+  <a href="mailto:ashukirjat@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" style="margin: 0 15px;" />
+  </a>
 </p>
+
 
 ---
 
