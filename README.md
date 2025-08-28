@@ -64,7 +64,7 @@ Here are some of my highlighted projects 👇
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/ashutosh-kirjat-7ba484259/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="[https://linkedin.com/in/ashutosh-kirjat-7ba484259]"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="mailto:ashukirjat@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <!--   <a href="(https://leetcode.com/u/ashutosh_2004)"><img src="https://skillicons.dev/icons?i=leetcode"/></a> -->
 </p>
